@@ -1,0 +1,8 @@
+# This file is used to override language statistics
+*.gif binary
+src/**/*.tsx linguist-detectable
+
+src/**/*.ts linguist-detectable
+node_modules/* linguist-vendored
+
+public/* linguist-vendored
