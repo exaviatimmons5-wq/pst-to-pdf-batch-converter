@@ -1,0 +1,8 @@
+yarn-error.log*
+build/
+*.log
+.DS_Store
+dist/
+npm-debug.log*
+.pnpm-store/
+.env
